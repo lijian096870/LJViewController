@@ -1,0 +1,6 @@
+framework module LJViewController {
+  umbrella header "LJViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
