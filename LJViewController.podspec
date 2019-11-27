@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LJViewController'
-  s.version          = '0.1.0'
+  s.version          = '1.1.0'
   s.summary          = '控制器视图关联工具类'
 
 # This description is used to generate tags and improve search results.

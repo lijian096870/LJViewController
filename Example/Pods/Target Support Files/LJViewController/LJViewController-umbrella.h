@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "LJViewControllerManager.h"
 
 FOUNDATION_EXPORT double LJViewControllerVersionNumber;
 FOUNDATION_EXPORT const unsigned char LJViewControllerVersionString[];
